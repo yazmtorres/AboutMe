@@ -1,1 +1,50 @@
 <link rel="stylesheet" href="style.css">
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Style for main heading */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    border-bottom: 2px solid #ffbac9;
+    padding-bottom: 10px;
+}
+
+/* Style for subheadings */
+h2 {
+    color: #ff0077;
+    margin-top: 20px;
+}
+
+/* Style for lists */
+ul, ol {
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+li {
+    margin: 5px 0;
+}
+
+/* Add some space to paragraphs */
+p {
+    line-height: 1.6;
+}
+
+/* Center content */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
